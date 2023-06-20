@@ -1,0 +1,82 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+background:linear-gradient(to right,#403B4A,#E7E9BB);
+
+}
+
+
+.container{
+background-color: #d1d1d1;
+border-radius: 10px;
+background-image:url(./image/galaxy-img.jpg) ;
+width: 500px;
+padding: 20px;
+margin: 100px auto 0;
+
+}
+
+#entrada{
+width: 300px;
+height: 30px;
+border-radius: 10px;
+border-color: aqua;
+font-size: 1.5rem ;
+font-style: italic;
+background-color: #fff;
+padding-left: 80px;
+
+}
+.btn{
+height: 35px;
+width: 35px;
+color: #000;
+background: rgb(16, 145, 205);
+border-radius: 50%;
+border: none;
+font-size:larger;
+
+}
+
+.btnInput{
+padding-bottom: 20px;
+padding-left: 33px;
+
+}
+#btnRemove{
+
+/* display: none; */
+
+}
+
+
+.pragrapher{
+background-color: beige;
+
+
+}
+
+h1{
+padding-left: 82px;
+color: rgb(149, 214, 20);
+
+}
+
+#novaTarefa{
+padding-left: 0px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size: larger;
+color: #fff;
+
+}
+
+p{
+margin: 0.5rem;
+background: #fff;
+color:#000;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 10px;
+}
